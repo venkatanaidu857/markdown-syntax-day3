@@ -68,3 +68,24 @@ def fun()
 [gmail](naidukuppala60@gmail.com)
 ## add college link
 [clg mail](kits@1234)
+
+## GIT COMMANDS
+- git init
+- git status
+- git branch
+- git add filename
+- git remote
+- git remote -ve
+- git clone "ur1"
+- git remote add remote "remolink"
+- git log
+- git lng --oneline
+- git revert filename
+- git reset filename
+- git rs filename
+- git config user.name"username"
+- git config user.email"user email"
+- git commit -m "meesage"
+- git push remotename branchname
+- git pull remotename branchname
+
