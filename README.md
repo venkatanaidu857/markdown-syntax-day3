@@ -89,3 +89,5 @@ def fun()
 - git push remotename branchname
 - git pull remotename branchname
 
+## inserting images
+![image](https://github.com/venkatanaidu857/markdown-syntax-day3/blob/master/7481546_uploadsmember586882yourshot-586882-7481546jpg_olm2z27kl7lbrtlb3pimwfia33p3eflutfvvbpyjwjhzlmh4iziq_2000x1333.jpg)
