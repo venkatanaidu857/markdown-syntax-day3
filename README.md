@@ -47,10 +47,10 @@ __*sample text*__
     * eee a
     * eee b
 ## code
-` 
+``` 
 def fun()
     print("welcome to github workshop by apssdc")
-`    
+```    
 ## function calling
 `
 fun()
