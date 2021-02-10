@@ -38,3 +38,11 @@ __*sample text*__
    2. cse b
 4. civil
 5. mech
+## unordered list
+
+- ece
+    * ece a
+    * ece b
+- eee
+    * eee a
+    * eee b
