@@ -1,2 +1,7 @@
-# markdown-syntax-day3
-day 2 in kits ece markdown synatax
+# home aotomation by alexa
+## components
+### circuit daigram
+#### analysis
+##### output observation
+###### conclusion
+####### normal text(not a heading)
