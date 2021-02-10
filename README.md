@@ -63,3 +63,8 @@ def fun()
 
 ## links
 [google](https//www.google.com)
+
+## add gmail link
+[gmail](naidukuppala60@gmail.com)
+## add college link
+[clg mail](kits@1234)
